@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 MAINTAINER <Orange Tsai> orange@chroot.org
 
 EXPOSE 80/tcp
