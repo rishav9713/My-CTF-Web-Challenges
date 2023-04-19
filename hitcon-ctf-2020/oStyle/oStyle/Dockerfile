@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 EXPOSE 80
 ENV DEBIAN_FRONTEND=noninteractive
 
