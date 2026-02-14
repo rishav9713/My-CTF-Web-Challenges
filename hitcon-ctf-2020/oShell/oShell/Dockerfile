@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.22.0
 MAINTAINER Orange Tsai<orange@chroot.org>
 
 # add user
