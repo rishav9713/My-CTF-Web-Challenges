@@ -1,4 +1,4 @@
-FROM wordpress:5.8.2-apache
+FROM wordpress:5.9.3-apache
 MAINTAINER <Orange Tsai> orange@chroot.org
 
 EXPOSE 80/tcp
