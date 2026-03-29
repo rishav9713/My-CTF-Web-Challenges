@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 MAINTAINER <Orange Tsai> orange@chroot.org
 
 EXPOSE 80/tcp
